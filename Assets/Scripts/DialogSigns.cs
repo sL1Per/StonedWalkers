@@ -19,7 +19,7 @@ public class DialogSigns : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if(/*Input.GetKeyDown(KeyCode.Space) && */ playerInRange)
+        if(playerInRange)
         {
             dialogBox.SetActive(true);
             dialogText.text = dialog;

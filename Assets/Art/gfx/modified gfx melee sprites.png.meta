@@ -1,103 +1,55 @@
 fileFormatVersion: 2
-guid: e26d98259f7ea4d67b048a4e5b13f7cd
+guid: f3fc8219f28a74281a37227a6c35cf37
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 6755023963799097672
-    second: zombie-NESW_0
+      213: -7065017516659185293
+    second: modified gfx melee sprites_0
   - first:
-      213: 9126320379006873961
-    second: zombie-NESW_1
+      213: -8041784067552993899
+    second: modified gfx melee sprites_1
   - first:
-      213: 6997940054421034428
-    second: zombie-NESW_2
+      213: 1532286108747742640
+    second: modified gfx melee sprites_2
   - first:
-      213: 906189606435320947
-    second: zombie-NESW_3
+      213: 147799070741053269
+    second: modified gfx melee sprites_3
   - first:
-      213: -6641458102426375021
-    second: zombie-NESW_4
+      213: -1051229601302811995
+    second: modified gfx melee sprites_4
   - first:
-      213: -6195924590307245237
-    second: zombie-NESW_5
+      213: -1303421174759146865
+    second: modified gfx melee sprites_5
   - first:
-      213: 8562726570006093587
-    second: zombie-NESW_6
+      213: 3846287316857905842
+    second: modified gfx melee sprites_6
   - first:
-      213: 2685213041342041187
-    second: zombie-NESW_7
+      213: 6236644240930400430
+    second: modified gfx melee sprites_7
   - first:
-      213: 15793695566299466
-    second: zombie-NESW_8
+      213: 6143096532532280469
+    second: modified gfx melee sprites_8
   - first:
-      213: 8120787085689028832
-    second: zombie-NESW_9
+      213: 2690043752140157995
+    second: modified gfx melee sprites_9
   - first:
-      213: 5679134067403647048
-    second: zombie-NESW_10
+      213: -4321362780126243980
+    second: modified gfx melee sprites_10
   - first:
-      213: 7049907348517241688
-    second: zombie-NESW_11
+      213: -4023288565639345712
+    second: modified gfx melee sprites_11
   - first:
-      213: -5682633663028116399
-    second: zombie-NESW_12
+      213: 3965153003262254658
+    second: modified gfx melee sprites_12
   - first:
-      213: 2972672887621882094
-    second: zombie-NESW_13
+      213: 6703265110210787806
+    second: modified gfx melee sprites_13
   - first:
-      213: -367229105229048760
-    second: zombie-NESW_14
+      213: 4004008643541842471
+    second: modified gfx melee sprites_14
   - first:
-      213: -4090301813735279456
-    second: zombie-NESW_15
-  - first:
-      213: -6904856930167878567
-    second: zombie-NESW_16
-  - first:
-      213: -6398013665967075308
-    second: zombie-NESW_17
-  - first:
-      213: 6172323557902043110
-    second: zombie-NESW_18
-  - first:
-      213: 5897161346775132364
-    second: zombie-NESW_19
-  - first:
-      213: 7533253408854287052
-    second: zombie-NESW_20
-  - first:
-      213: 4283862355290583202
-    second: zombie-NESW_21
-  - first:
-      213: -287085072501346369
-    second: zombie-NESW_22
-  - first:
-      213: 4820692720110608137
-    second: zombie-NESW_23
-  - first:
-      213: -1924783448927820380
-    second: zombie-NESW_24
-  - first:
-      213: 2616988367873599426
-    second: zombie-NESW_25
-  - first:
-      213: -6519707722880091633
-    second: zombie-NESW_26
-  - first:
-      213: -1284723217758464983
-    second: zombie-NESW_27
-  - first:
-      213: -1667176833256461178
-    second: zombie-NESW_28
-  - first:
-      213: -3007217649734093484
-    second: zombie-NESW_29
-  - first:
-      213: 8994485090069159619
-    second: zombie-NESW_30
-  - first:
-      213: 2744175467196209611
-    second: zombie-NESW_31
+      213: -872947984015748712
+    second: modified gfx melee sprites_15
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -195,12 +147,12 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: zombie-NESW_0
+      name: modified gfx melee sprites_0
       rect:
         serializedVersion: 2
         x: 0
         y: 96
-        width: 24
+        width: 32
         height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -209,19 +161,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8411f73618aaebd50800000000000000
-      internalID: 6755023963799097672
+      spriteID: 379ed9b200404fd90800000000000000
+      internalID: -7065017516659185293
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: zombie-NESW_1
+      name: modified gfx melee sprites_1
       rect:
         serializedVersion: 2
-        x: 24
+        x: 32
         y: 96
-        width: 24
+        width: 32
         height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -230,19 +182,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 961fc19080437ae70800000000000000
-      internalID: 9126320379006873961
+      spriteID: 59d9b1d6ff7d56090800000000000000
+      internalID: -8041784067552993899
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: zombie-NESW_2
+      name: modified gfx melee sprites_2
       rect:
         serializedVersion: 2
-        x: 48
+        x: 64
         y: 96
-        width: 24
+        width: 32
         height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -251,19 +203,40 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cb55e3f176dad1160800000000000000
-      internalID: 6997940054421034428
+      spriteID: 0bdbc26f816c34510800000000000000
+      internalID: 1532286108747742640
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: zombie-NESW_3
+      name: modified gfx melee sprites_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55f37a5c8761d0200800000000000000
+      internalID: 147799070741053269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modified gfx melee sprites_4
       rect:
         serializedVersion: 2
         x: 0
         y: 64
-        width: 24
+        width: 32
         height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -272,19 +245,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3747ab655ae639c00800000000000000
-      internalID: 906189606435320947
+      spriteID: 5aa68fc4f384961f0800000000000000
+      internalID: -1051229601302811995
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: zombie-NESW_4
+      name: modified gfx melee sprites_5
       rect:
         serializedVersion: 2
-        x: 24
+        x: 32
         y: 64
-        width: 24
+        width: 32
         height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -293,19 +266,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 39c6c363b0dc4d3a0800000000000000
-      internalID: -6641458102426375021
+      spriteID: f8a32cde85159ede0800000000000000
+      internalID: -1303421174759146865
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: zombie-NESW_5
+      name: modified gfx melee sprites_6
       rect:
         serializedVersion: 2
-        x: 48
+        x: 64
         y: 64
-        width: 24
+        width: 32
         height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -314,19 +287,40 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b4301ab9967a30aa0800000000000000
-      internalID: -6195924590307245237
+      spriteID: 2b2e769afe1c06530800000000000000
+      internalID: 3846287316857905842
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: zombie-NESW_6
+      name: modified gfx melee sprites_7
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea8642bd4e20d8650800000000000000
+      internalID: 6236644240930400430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modified gfx melee sprites_8
       rect:
         serializedVersion: 2
         x: 0
         y: 32
-        width: 24
+        width: 32
         height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -335,19 +329,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 31f130ab27ae4d670800000000000000
-      internalID: 8562726570006093587
+      spriteID: 59c3582bfb9a04550800000000000000
+      internalID: 6143096532532280469
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: zombie-NESW_7
+      name: modified gfx melee sprites_9
       rect:
         serializedVersion: 2
-        x: 24
+        x: 32
         y: 32
-        width: 24
+        width: 32
         height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -356,19 +350,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 36c4073c80bc34520800000000000000
-      internalID: 2685213041342041187
+      spriteID: b24b2944a84f45520800000000000000
+      internalID: 2690043752140157995
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: zombie-NESW_8
+      name: modified gfx melee sprites_10
       rect:
         serializedVersion: 2
-        x: 48
+        x: 64
         y: 32
-        width: 24
+        width: 32
         height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -377,19 +371,40 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a418bed484c183000800000000000000
-      internalID: 15793695566299466
+      spriteID: 4731bf0727f6704c0800000000000000
+      internalID: -4321362780126243980
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: zombie-NESW_9
+      name: modified gfx melee sprites_11
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d90d28ad586a28c0800000000000000
+      internalID: -4023288565639345712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modified gfx melee sprites_12
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 24
+        width: 32
         height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -398,19 +413,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0e0031324d4d2b070800000000000000
-      internalID: 8120787085689028832
+      spriteID: 24e158fe5ad070730800000000000000
+      internalID: 3965153003262254658
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: zombie-NESW_10
+      name: modified gfx melee sprites_13
       rect:
         serializedVersion: 2
-        x: 24
+        x: 32
         y: 0
-        width: 24
+        width: 32
         height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -419,19 +434,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 848e96f485650de40800000000000000
-      internalID: 5679134067403647048
+      spriteID: ed932613a18c60d50800000000000000
+      internalID: 6703265110210787806
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: zombie-NESW_11
+      name: modified gfx melee sprites_14
       rect:
         serializedVersion: 2
-        x: 48
+        x: 64
         y: 0
-        width: 24
+        width: 32
         height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -440,8 +455,29 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 85349c7a16d46d160800000000000000
-      internalID: 7049907348517241688
+      spriteID: 72ab7eba5a8119730800000000000000
+      internalID: 4004008643541842471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modified gfx melee sprites_15
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89119510f6aa2e3f0800000000000000
+      internalID: -872947984015748712
       vertices: []
       indices: 
       edges: []
