@@ -35,13 +35,13 @@ public class RoomMove : MonoBehaviour
 
             if(needText)
             {
-                StartCoroutine(placeNameCoroutine());
+                StartCoroutine(placeNameCo());
             }
         }
     }
 
     // Runs in parallel with other processes
-    private IEnumerator placeNameCoroutine()
+    private IEnumerator placeNameCo()
     {
         text.SetActive(true);
         placeText.text = placeName;
