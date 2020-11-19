@@ -15,7 +15,7 @@ public class CameraMovement : MonoBehaviour
         
     }
 
-    // LateUpdate is called last
+    // LateUpdate is called last (once the frame is ladead)
     void LateUpdate()
     {
         if(transform.position != target.position)
