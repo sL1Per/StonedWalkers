@@ -578,6 +578,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   thrust: 2
   knockTime: 0.2
+  damage: 1
 --- !u!1 &588941122
 GameObject:
   m_ObjectHideFlags: 0
@@ -655,6 +656,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   thrust: 2
   knockTime: 0.2
+  damage: 1
 --- !u!1 &618096755
 GameObject:
   m_ObjectHideFlags: 0
@@ -13356,6 +13358,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   thrust: 2
   knockTime: 0.2
+  damage: 1
 --- !u!1 &1703016648
 GameObject:
   m_ObjectHideFlags: 0
@@ -13436,6 +13439,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   thrust: 2
   knockTime: 0.2
+  damage: 1
 --- !u!1 &1916393155
 GameObject:
   m_ObjectHideFlags: 0
@@ -13704,8 +13708,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   currentState: 0
+  maxHealth: {fileID: 11400000, guid: 6fc3ad873ff6846e189adf7df88233b6, type: 2}
   health: 2
-  enemyName: Log01
+  enemyName: Larry the Log
   baseAttack: 1
   moveSpeed: 1.5
   target: {fileID: 0}
@@ -13753,6 +13758,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   thrust: 2
   knockTime: 0.2
+  damage: 0
 --- !u!1001 &2133350683
 PrefabInstance:
   m_ObjectHideFlags: 0
